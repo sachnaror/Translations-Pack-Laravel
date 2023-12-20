@@ -17,7 +17,7 @@ Fork this repository and enter its directory.
 Replace the placeholder `<YOUR-USERNAME>` with your GitHub username and run the command:
 
 ```shell
-git clone https://github.com/<YOUR-USERNAME>/laravel-translations.git && cd laravel-translations
+git clone https://github.com/<YOUR-USERNAME>/Translations-Pack-Laravel.git && cd Translations-Pack-Laravel
 ```
 
 ### 📌 Step 2
@@ -83,7 +83,7 @@ Example:
     "repositories": [
         {
             "type": "path",
-            "url": "/home/myuser/projects/laravel-translations"
+            "url": "/home/myuser/projects/Translations-Pack-Laravel"
         }
     ]
 }

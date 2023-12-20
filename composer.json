@@ -9,12 +9,12 @@
         "livewire",
         "translation-manager"
     ],
-    "homepage": "https://github.com/MohmmedAshraf/laravel-translations",
+    "homepage": "https://github.com/sachnaror/Translations-Pack-Laravel",
     "license": "MIT",
     "authors": [
         {
-            "name": "Mohamed Ashraf",
-            "email": "cupo.ashraf@gmail.com",
+            "name": "Sachin Arora",
+            "email": "sachnaror@gmail.com",
             "role": "Developer"
         }
     ],
@@ -64,10 +64,10 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Outhebox\\LaravelTranslations\\LaravelTranslationsServiceProvider"
+                "Outhebox\\Translations-Pack-Laravel\\Translations-Pack-LaravelServiceProvider"
             ],
             "aliases": {
-                "LaravelTranslations": "Outhebox\\LaravelTranslations\\Facades\\LaravelTranslations"
+                "LaravelTranslations": "Outhebox\\LaravelTranslations\\Facades\\Translations-Pack-Laravel"
             }
         }
     },
