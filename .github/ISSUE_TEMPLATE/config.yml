@@ -1,10 +1,10 @@
 blank_issues_enabled: false
 contact_links:
   - name: Ask a question
-    url: https://github.com/sachnaror/Translations-Pack-Laravel/discussions/new?category=q-a
+    url: https://github.com/sachnaror/Translations-Pack-Laravel/discussions/new
     about: Ask the community for help
   - name: Request a feature
-    url: https://github.com/sachnaror/Translations-Pack-Laravel/discussions/new?category=ideas
+    url: https://github.com/sachnaror/Translations-Pack-Laravel/discussions/new
     about: Share ideas for new features
   - name: Report a security issue
     url: https://github.com/sachnaror/Translations-Pack-Laravel/security/policy
